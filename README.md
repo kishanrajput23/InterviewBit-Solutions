@@ -12,3 +12,7 @@
 |  **Day 008**  |  [First Missing Integer](https://www.interviewbit.com/problems/first-missing-integer/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_008.cpp)  |  Medium  |
 |  **Day 009**  |  [Valid Ip Addresses](https://www.interviewbit.com/problems/valid-ip-addresses/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_009.cpp)  |  Medium  |
 |  **Day 010**  |  [Pick from both sides](https://www.interviewbit.com/problems/pick-from-both-sides/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_010.cpp)  |  Very Easy  |
+|  **Day 011**  |  [Wave Array](https://www.interviewbit.com/problems/wave-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_011.cpp)  |  Easy  |
+|  **Day 012**  |  [Array Sum](https://www.interviewbit.com/problems/array-sum/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_012.cpp)  |  Medium  |
+|  **Day 013**  |  [Max Min](https://www.interviewbit.com/problems/max-min-05542f2f-69aa-4253-9cc7-84eb7bf739c4/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_013.cpp)  |  Easy  |
+|  **Day 014**  |  [Kth Smallest Element in the Array](https://www.interviewbit.com/problems/kth-smallest-element-in-the-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_014.cpp)  |  Easy  |
