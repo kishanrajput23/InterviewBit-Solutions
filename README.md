@@ -17,3 +17,4 @@
 |  **Day 013**  |  [Max Min](https://www.interviewbit.com/problems/max-min-05542f2f-69aa-4253-9cc7-84eb7bf739c4/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_013.cpp)  |  Easy  |
 |  **Day 014**  |  [Kth Smallest Element in the Array](https://www.interviewbit.com/problems/kth-smallest-element-in-the-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_014.cpp)  |  Easy  |
 |  **Day 015**  |  [Occurence of Each Number](https://www.interviewbit.com/problems/occurence-of-each-number/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_015.cpp)  |  Medium  |
+|  **Day 016**  |  [Make equal elements Array](https://www.interviewbit.com/problems/make-equal-elements-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_016.cpp)  |  Medium  |
