@@ -19,3 +19,7 @@
 |  **Day 015**  |  [Occurence of Each Number](https://www.interviewbit.com/problems/occurence-of-each-number/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_015.cpp)  |  Medium  |
 |  **Day 016**  |  [Make equal elements Array](https://www.interviewbit.com/problems/make-equal-elements-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_016.cpp)  |  Medium  |
 |  **Day 017**  |  [Multiply Strings](https://www.interviewbit.com/problems/multiply-strings/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_017.cpp)  |  Medium  |
+|  **Day 018**  |  [Length of Last Word](https://www.interviewbit.com/problems/length-of-last-word/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_018.cpp)  |  Easy  |
+|  **Day 019**  |  [Count Element Occurence](https://www.interviewbit.com/problems/count-element-occurence/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_019.cpp)  |  Easy  |
+|  **Day 020**  |  [Leaders in an array](https://www.interviewbit.com/problems/leaders-in-an-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_020.cpp)  |  Easy  |
+|  **Day 021**  |  [Sort array with squares!](https://www.interviewbit.com/problems/sort-array-with-squares/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_021.cpp)  |  Easy  |
