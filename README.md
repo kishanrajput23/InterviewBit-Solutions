@@ -23,3 +23,4 @@
 |  **Day 019**  |  [Count Element Occurence](https://www.interviewbit.com/problems/count-element-occurence/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_019.cpp)  |  Easy  |
 |  **Day 020**  |  [Leaders in an array](https://www.interviewbit.com/problems/leaders-in-an-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_020.cpp)  |  Easy  |
 |  **Day 021**  |  [Sort array with squares!](https://www.interviewbit.com/problems/sort-array-with-squares/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_021.cpp)  |  Easy  |
+|  **Day 022**  |  [String And Its Frequency](https://www.interviewbit.com/problems/string-and-its-frequency/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_022.cpp)  |  Medium  |
