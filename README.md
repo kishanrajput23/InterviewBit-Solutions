@@ -25,3 +25,10 @@
 |  **Day 021**  |  [Sort array with squares!](https://www.interviewbit.com/problems/sort-array-with-squares/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_021.cpp)  |  Easy  |
 |  **Day 022**  |  [String And Its Frequency](https://www.interviewbit.com/problems/string-and-its-frequency/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_022.cpp)  |  Medium  |
 |  **Day 023**  |  [Self Permutation](https://www.interviewbit.com/problems/self-permutation/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_023.cpp)  |  Medium  |
+|  **Day 024**  |  [Serialize](https://www.interviewbit.com/problems/serialize/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_024.cpp)  |  Medium  |
+|  **Day 025**  |  [Deserialize](https://www.interviewbit.com/problems/deserialize/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_025.cpp)  |  Medium  |
+|  **Day 026 (1)**  |  [Is Rectangle](https://www.interviewbit.com/problems/is-rectangle/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_026_1.cpp)  |  Easy  |
+|  **Day 026 (2)**  |  [Verify Prime](https://www.interviewbit.com/problems/verify-prime/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_026_2.cpp)  |  Easy  |
+|  **Day 026 (3)**  |  [Palindrome Integer](https://www.interviewbit.com/problems/palindrome-integer/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_026_3.cpp)  |  Easy  |
+|  **Day 027**  |  [Greatest Common Divisor](https://www.interviewbit.com/problems/greatest-common-divisor/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_027.cpp)  |  Medium  |
+|  **Day 028**  |  [Salutes](https://www.interviewbit.com/problems/salutes/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_028.cpp)  |  Medium  |
