@@ -32,3 +32,4 @@
 |  **Day 026 (3)**  |  [Palindrome Integer](https://www.interviewbit.com/problems/palindrome-integer/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_026_3.cpp)  |  Easy  |
 |  **Day 027**  |  [Greatest Common Divisor](https://www.interviewbit.com/problems/greatest-common-divisor/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_027.cpp)  |  Medium  |
 |  **Day 028**  |  [Salutes](https://www.interviewbit.com/problems/salutes/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_028.cpp)  |  Medium  |
+|  **Day 029**  |  [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_029.cpp)  |  Easy  |
