@@ -33,3 +33,4 @@
 |  **Day 027**  |  [Greatest Common Divisor](https://www.interviewbit.com/problems/greatest-common-divisor/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_027.cpp)  |  Medium  |
 |  **Day 028**  |  [Salutes](https://www.interviewbit.com/problems/salutes/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_028.cpp)  |  Medium  |
 |  **Day 029**  |  [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_029.cpp)  |  Easy  |
+|  **Day 030**  |  [Character Frequencies](https://www.interviewbit.com/problems/character-frequencies/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_030.cpp)  |  Easy  |
