@@ -39,3 +39,5 @@
 |  **Day 033**  |  [Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_033.cpp)  |  Very Easy  |
 |  **Day 034**  |  [Intersection Of Sorted Arrays](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_034.cpp)  |  Easy  |
 |  **Day 035**  |  [Remove Consecutive Characters](https://www.interviewbit.com/problems/remove-consecutive-characters/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_035.cpp)  |  Easy  |
+|  **Day 036**  |  [Smaller or equal elements](https://www.interviewbit.com/problems/smaller-or-equal-elements/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_036.cpp)  |  Easy  |
+|  **Day 037**  |  [Sort by Color](https://www.interviewbit.com/problems/sort-by-color/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_037.cpp)  |  Easy  |
