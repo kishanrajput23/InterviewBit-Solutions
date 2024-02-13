@@ -46,3 +46,4 @@
 |  **Day 040**  |  [Trailing Zeroes](https://www.interviewbit.com/problems/trailing-zeroes/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_040.cpp)  |  Easy  |
 |  **Day 041**  |  [Addition without Summation](https://www.interviewbit.com/problems/addition-without-summation/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_041.cpp)  |  Medium  |
 |  **Day 042**  |  [Similar Pairs](https://www.interviewbit.com/problems/similar-pairs/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_042.cpp)  |  Medium  |
+|  **Day 043**  |  [Word Count](https://www.interviewbit.com/problems/word-count/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_043.cpp)  |  Medium  |
