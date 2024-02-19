@@ -52,4 +52,4 @@
 |  **Day 046**  |  [Palindrome Numbers](https://www.interviewbit.com/problems/palindrome-numbers/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_046.cpp)  |  Medium  |
 |  **Day 047**  |  [Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_047.cpp)  |  Medium  |
 |  **Day 048**  |  [Palindromic Substrings](https://www.interviewbit.com/problems/palindromic-substrings/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_048.cpp)  |  Medium  |
-|  **Day 049**  |  [Word Count](https://www.interviewbit.com/problems/word-count/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_049.cpp)  |  Medium  |
+|  **Day 049**  |  [Diffk](https://www.interviewbit.com/problems/diffk/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_049.cpp)  |  Medium  |
