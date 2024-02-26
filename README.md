@@ -53,3 +53,10 @@
 |  **Day 047**  |  [Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_047.cpp)  |  Medium  |
 |  **Day 048**  |  [Palindromic Substrings](https://www.interviewbit.com/problems/palindromic-substrings/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_048.cpp)  |  Medium  |
 |  **Day 049**  |  [Diffk](https://www.interviewbit.com/problems/diffk/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_049.cpp)  |  Medium  |
+|  **Day 050**  |  [Frequency of Characters](https://www.interviewbit.com/problems/frequency-of-characters/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_050.cpp)  |  Very Easy  |
+|  **Day 051**  |  [Palindromic Words](https://www.interviewbit.com/problems/palindromic-words/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_051.cpp)  |  Very Easy  |
+|  **Day 052**  |  [FizzBuzz](https://www.interviewbit.com/problems/fizzbuzz/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_052.cpp)  |  Very Easy  |
+|  **Day 053**  |  [Reverse String](https://www.interviewbit.com/problems/reverse-string/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_053.cpp)  |  Easy  |
+|  **Day 054**  |  [Merge K sorted arrays!](https://www.interviewbit.com/problems/merge-k-sorted-arrays/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_054.cpp)  |  Medium  |
+|  **Day 055**  |  [Pairs With Given Xor](https://www.interviewbit.com/problems/pairs-with-given-xor/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_055.cpp)  |  Medium  |
+|  **Day 056**  |  [Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_056.cpp)  |  Medium  |
