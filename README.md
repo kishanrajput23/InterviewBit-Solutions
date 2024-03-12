@@ -74,3 +74,4 @@
 |  **Day 068**  |  [Even Reverse](https://www.interviewbit.com/problems/even-reverse/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_068.cpp)  |  Medium  |
 |  **Day 069**  |  [List Cycle](https://www.interviewbit.com/problems/list-cycle/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_069.cpp)  |  Medium  |
 |  **Day 070**  |  [Remove Duplicates from Sorted List II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_070.cpp)  |  Medium  |
+|  **Day 071**  |  [Palindrome List](https://www.interviewbit.com/problems/palindrome-list/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_071.cpp)  |  Medium  |
