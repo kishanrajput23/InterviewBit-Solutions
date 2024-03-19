@@ -81,3 +81,4 @@
 |  **Day 075**  |  [Extracting Numbers](https://www.interviewbit.com/problems/extracting-numbers/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_075.cpp)  |  Very Easy  |
 |  **Day 076**  |  [Product of All](https://www.interviewbit.com/problems/product-of-all/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_076.cpp)  |  Easy  |
 |  **Day 077**  |  [Balanced Parantheses](https://www.interviewbit.com/problems/balanced-parantheses/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_077.cpp)  |  Easy  |
+|  **Day 078**  |  [Rotate List](https://www.interviewbit.com/problems/rotate-list/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_078.cpp)  |  Medium  |
