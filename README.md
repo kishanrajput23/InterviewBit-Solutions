@@ -83,3 +83,34 @@
 |  **Day 077**  |  [Balanced Parantheses](https://www.interviewbit.com/problems/balanced-parantheses/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_077.cpp)  |  Easy  |
 |  **Day 078**  |  [Rotate List](https://www.interviewbit.com/problems/rotate-list/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_078.cpp)  |  Medium  |
 |  **Day 079**  |  [Partition List](https://www.interviewbit.com/problems/partition-list/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_079.cpp)  |  Medium  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  **Day 080**  |  [Insertion Sort List](https://www.interviewbit.com/problems/insertion-sort-list/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_080.cpp)  |  Medium  |
+|  **Day 081**  |  [Reorder List](https://www.interviewbit.com/problems/reorder-list/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_081.cpp)  |  Hard  |
+|  **Day 082**  |  [Reverse Alternate K Nodes](https://www.interviewbit.com/problems/reverse-alternate-k-nodes/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_082.cpp)  |  Medium  |
+|  **Day 083**  |  [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_083.cpp)  |  Easy  |
+|  **Day 084**  |  [String Inversion](https://www.interviewbit.com/problems/string-inversion/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_084.cpp)  |  Very Easy  |
+|  **Day 085**  |  [Valid Password](https://www.interviewbit.com/problems/valid-password/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_085.cpp)  |  Very Easy  |
+|  **Day 086**  |  [Maximum Substring](https://www.interviewbit.com/problems/maximum-substring/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_086.cpp)  |  Very Easy  |
+|  **Day 087**  |  [Even Product](https://www.interviewbit.com/problems/even-product/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_087.cpp)  |  Very Easy  |
+|  **Day 088**  |  [Integer To Roman](https://www.interviewbit.com/problems/integer-to-roman/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_088.cpp)  |  Medium  |
+|  **Day 089**  |  [Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_089.cpp)  |  Easy  |
+|  **Day 090**  |  [Number of 1 Bits](https://www.interviewbit.com/problems/number-of-1-bits/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_090.cpp)  |  Easy  |
+|  **Day 091**  |  [Single Number](https://www.interviewbit.com/problems/single-number/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_091.cpp)  |  Easy  |
+|  **Day 092**  |  [Common Elements](https://www.interviewbit.com/problems/common-elements/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_092.cpp)  |  Easy  |
+|  **Day 093**  |  [Odd Even Rule](https://www.interviewbit.com/problems/odd-even-rule/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_093.cpp)  |  Very Easy  |
