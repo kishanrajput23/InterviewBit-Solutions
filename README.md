@@ -112,3 +112,4 @@
 |  **Day 104**  |  [Maximum level sum](https://www.interviewbit.com/problems/maximum-level-sum/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_104.cpp)  |  Easy  |
 |  **Day 105**  |  [Vertical Order traversal of Binary Tree](https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_105.cpp)  |  Easy  |
 |  **Day 106**  |  [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_106.cpp)  |  Easy  |
+|  **Day 107**  |  [Symmetric Binary Tree](https://www.interviewbit.com/problems/path-sum/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_107.cpp)  |  Easy  |
