@@ -119,3 +119,4 @@
 |  **Day 111**  |  [Min Depth of Binary Tree](https://www.interviewbit.com/problems/min-depth-of-binary-tree/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_111.cpp)  |  Medium  |
 |  **Day 112**  |  [Right view of Binary tree](https://www.interviewbit.com/problems/right-view-of-binary-tree/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_112.cpp)  |  Medium  |
 |  **Day 113**  |  [Reverse Level Order](https://www.interviewbit.com/problems/reverse-level-order/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_113.cpp)  |  Medium  |
+|  **Day 114**  |  [Path to Given Node](https://www.interviewbit.com/problems/path-to-given-node/)  |  [Solution](https://github.com/kishanrajput23/Scaler-365-Days-of-Code/blob/main/Problems/Day_114.cpp)  |  Easy  |
