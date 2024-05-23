@@ -1,4 +1,6 @@
-# Scaler 365 Days of Code
+# InterviewBit Solutions
+
+<img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/05/Interviewbit.png" alt="">
 
 |  Day  |  Problem  |  Solution  |  Level  |
 |:-----:|:-----------|:-----------:|:-------:|
